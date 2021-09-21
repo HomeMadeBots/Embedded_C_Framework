@@ -6,7 +6,7 @@
     #include "Arduino.h"
     #define Wait_Microsecond( us ) delayMicroseconds( us )
 #else
-    #error "merde !"
+    #error "Wait_xxx not implemented."
 #endif
 
 #endif

@@ -1,0 +1,9 @@
+@startuml
+
+package Embedded_C_Framework [
+  Gathers software elements allowing to abstract
+  basic software functions that a microcontroller
+  can provide.
+]
+
+@enduml
