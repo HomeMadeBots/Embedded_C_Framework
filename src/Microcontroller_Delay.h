@@ -1,5 +1,5 @@
-#ifndef DELAY_H
-#define DELAY_H
+#ifndef MICROCONTROLLER_DELAY_H
+#define MICROCONTROLLER_DELAY_H
 
 
 #ifdef ARDUINO
